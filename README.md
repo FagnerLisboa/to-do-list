@@ -1,0 +1,1 @@
+Nessa Ferramenta o usuário poderá adicionar tarefas diárias, podendo marcar que completou ou até mesmo deletar a tarefa selecionada.
